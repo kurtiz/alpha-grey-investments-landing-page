@@ -1,6 +1,7 @@
 <head>
     <title>Alpha Grey | <?=session()->get("page")?></title>
     <meta charset="utf-8">
+    <link href="<?=base_url()?>/public/favicon.ico" rel="icon">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&family=Prata&display=swap"

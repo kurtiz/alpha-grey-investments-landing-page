@@ -12,7 +12,7 @@
                 <li class="nav-item"><a class="nav-link <?= session()->getTempdata("home")?>" href="<?= base_url() ?>">Home</a></li>
                 <li class="nav-item"><a class="nav-link <?= session()->getTempdata("about")?>" href="<?= base_url() ?>/about">About</a></li>
                 <li class="nav-item"><a class="nav-link <?= session()->getTempdata("services")?>" href="<?= base_url() ?>/services">Services</a></li>
-                <li class="nav-item"><a class="nav-link <?= session()->getTempdata("project")?>" href="<?= base_url() ?>/project">Projects</a></li>
+                <li class="nav-item"><a class="nav-link <?= session()->getTempdata("project")?>" href="<?= base_url() ?>/projects">Projects</a></li>
                 <li class="nav-item"><a class="nav-link <?= session()->getTempdata("contact")?>" href="<?= base_url() ?>/contact">Contact</a></li>
             </ul>
         </div>

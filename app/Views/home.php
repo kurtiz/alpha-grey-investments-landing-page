@@ -31,11 +31,11 @@
             <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100"
                  data-aos-duration="1000">
                 <div class="img w-100"
-                     style="background-image:url('<?= base_url(); ?>/public/images/xabout.jpg.pagespeed.ic.RKEDHzGegC.jpg')">
+                     style="background-image:url('<?= base_url(); ?>/public/images/staff/sn_staff-1.jpg')">
                     <div class="counter-wrap d-flex">
                         <div class="icon"><span class="flaticon-engineer"></span></div>
                         <div class="text ps-3">
-                            <span class="number"><span class="countup">38</span></span>
+                            <span class="number"><span class="countup">10</span></span>
                             <span class="caption">Years of experienced</span>
                         </div>
                     </div>
@@ -193,12 +193,12 @@
                 <h2 class="mb-5">Qualified Engineers</h2>
             </div>
         </div>
-        <div class="row">
+        <div class="row text-center">
             <div class="col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
                 <div class="staff">
                     <div class="img"
-                         style="background-image:url('<?= base_url(); ?>/public/images/xstaff-1.jpg.pagespeed.ic.UZeekokIcK.jpg')">
-                        <ul class="ftco-social">
+                         style="background-image:url('<?= base_url(); ?>/public/images/staff/sn_staff-1.jpg')">
+                        <?php /*<ul class="ftco-social">
                             <li><a href="#"><span class="fa fa-twitter"></span></a>
                             </li>
                             <li><a href="#"><span class="fa fa-facebook"></span></a>
@@ -207,15 +207,57 @@
                             </li>
                             <li><a href="#"><span
                                             class="fa fa-google-plus"></span></a></li>
-                        </ul>
+                        </ul>*/ ?>
                     </div>
-                    <div class="text">
+                    <?php /*<div class="text">
                         <h3><a href="#">Lionel Wurtchbach</a></h3>
                         <span>Senior Engineer</span>
-                    </div>
+                    </div>*/ ?>
                 </div>
             </div>
-            <div class="col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
+            <div class="col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
+                <div class="staff">
+                    <div class="img"
+                         style="background-image:url('<?= base_url(); ?>/public/images/staff/sn_staff-2.jpg')">
+                        <?php /*<ul class="ftco-social">
+                            <li><a href="#"><span class="fa fa-twitter"></span></a>
+                            </li>
+                            <li><a href="#"><span class="fa fa-facebook"></span></a>
+                            </li>
+                            <li><a href="#"><span class="fa fa-instagram"></span></a>
+                            </li>
+                            <li><a href="#"><span
+                                            class="fa fa-google-plus"></span></a></li>
+                        </ul>*/ ?>
+                    </div>
+                    <?php /*<div class="text">
+                        <h3><a href="#">Lionel Wurtchbach</a></h3>
+                        <span>Senior Engineer</span>
+                    </div>*/ ?>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
+                <div class="staff">
+                    <div class="img"
+                         style="background-image:url('<?= base_url(); ?>/public/images/staff/sn_staff-3.jpg')">
+                        <?php /*<ul class="ftco-social">
+                            <li><a href="#"><span class="fa fa-twitter"></span></a>
+                            </li>
+                            <li><a href="#"><span class="fa fa-facebook"></span></a>
+                            </li>
+                            <li><a href="#"><span class="fa fa-instagram"></span></a>
+                            </li>
+                            <li><a href="#"><span
+                                            class="fa fa-google-plus"></span></a></li>
+                        </ul>*/ ?>
+                    </div>
+                    <?php /*<div class="text">
+                        <h3><a href="#">Lionel Wurtchbach</a></h3>
+                        <span>Senior Engineer</span>
+                    </div>*/ ?>
+                </div>
+            </div>
+            <?php /*<div class="col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
                 <div class="staff">
                     <div class="img"
                          style="background-image:url('<?= base_url(); ?>/public/images/xstaff-2.jpg.pagespeed.ic.YkGciHPkso.jpg')">
@@ -277,7 +319,7 @@
                         <span>Senior Engineer</span>
                     </div>
                 </div>
-            </div>
+            </div> */?>
         </div>
     </div>
 </section>
@@ -368,6 +410,7 @@
     </div>
 </section>
  */ ?>
+
 <section class="ftco-section testimony-section bg-light">
     <div class="container-xl">
         <div class="row justify-content-center pb-4">
@@ -738,7 +781,7 @@
                         Our doors are open to you. Just Book an appointment, and we will
                         schedule a meeting with you.
                     </p>
-                    <!--                    <div class="row">-->
+                   <?php /* <!--                    <div class="row">-->
                     <!--                        <div class="col-md-12">-->
                     <!--                            <div class="accordion" id="accordionExample">-->
                     <!--                                <div class="accordion-item">-->
@@ -799,6 +842,7 @@
                     <!--                            </div>-->
                     <!--                        </div>-->
                     <!--                    </div>-->
+                    */?>
                 </div>
             </div>
         </div>
