@@ -156,10 +156,10 @@
                                             class="fa fa-google-plus"></span></a></li>
                         </ul>*/ ?>
                     </div>
-                    <?php /*<div class="text">
+                   <div class="text">
                         <h3><a href="#">Lionel Wurtchbach</a></h3>
                         <span>Senior Engineer</span>
-                    </div>*/ ?>
+                    </div>
                 </div>
             </div>
             <div class="col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
@@ -177,10 +177,10 @@
                                             class="fa fa-google-plus"></span></a></li>
                         </ul>*/ ?>
                     </div>
-                    <?php /*<div class="text">
+                    <div class="text">
                         <h3><a href="#">Lionel Wurtchbach</a></h3>
                         <span>Senior Engineer</span>
-                    </div>*/ ?>
+                    </div>
                 </div>
             </div>
             <div class="col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
@@ -198,17 +198,17 @@
                                             class="fa fa-google-plus"></span></a></li>
                         </ul>*/ ?>
                     </div>
-                    <?php /*<div class="text">
+                    <div class="text">
                         <h3><a href="#">Lionel Wurtchbach</a></h3>
                         <span>Senior Engineer</span>
-                    </div>*/ ?>
+                    </div>
                 </div>
             </div>
-            <?php /*<div class="col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
+            <div class="col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
                 <div class="staff">
                     <div class="img"
-                         style="background-image:url('<?= base_url(); ?>/public/images/xstaff-2.jpg.pagespeed.ic.YkGciHPkso.jpg')">
-                        <ul class="ftco-social">
+                         style="background-image:url('<?= base_url(); ?>/public/images/staff/sn_staff-4.jpg')">
+                        <?php /* <ul class="ftco-social">
                             <li><a href="#"><span class="fa fa-twitter"></span></a>
                             </li>
                             <li><a href="#"><span class="fa fa-facebook"></span></a>
@@ -217,56 +217,14 @@
                             </li>
                             <li><a href="#"><span
                                             class="fa fa-google-plus"></span></a></li>
-                        </ul>
+                        </ul> */ ?>
                     </div>
                     <div class="text">
-                        <h3><a href="#">Mike Nintido</a></h3>
-                        <span>Senior Engineer</span>
+                        <h3><a href="#">W. Kirk Bastian</a></h3>
+                        <span>Technical Advisor</span>
                     </div>
                 </div>
             </div>
-            <div class="col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="300" data-aos-duration="1000">
-                <div class="staff">
-                    <div class="img"
-                         style="background-image:url('<?= base_url(); ?>/public/images/xstaff-3.jpg.pagespeed.ic.HfIwwpA189.jpg')">
-                        <ul class="ftco-social">
-                            <li><a href="#"><span class="fa fa-twitter"></span></a>
-                            </li>
-                            <li><a href="#"><span class="fa fa-facebook"></span></a>
-                            </li>
-                            <li><a href="#"><span class="fa fa-instagram"></span></a>
-                            </li>
-                            <li><a href="#"><span
-                                            class="fa fa-google-plus"></span></a></li>
-                        </ul>
-                    </div>
-                    <div class="text">
-                        <h3><a href="#">Bea Alam</a></h3>
-                        <span>Senior Engineer</span>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="400" data-aos-duration="1000">
-                <div class="staff">
-                    <div class="img"
-                         style="background-image:url('<?= base_url(); ?>/public/images/xstaff-4.jpg.pagespeed.ic.5V7Rtt9rke.jpg')">
-                        <ul class="ftco-social">
-                            <li><a href="#"><span class="fa fa-twitter"></span></a>
-                            </li>
-                            <li><a href="#"><span class="fa fa-facebook"></span></a>
-                            </li>
-                            <li><a href="#"><span class="fa fa-instagram"></span></a>
-                            </li>
-                            <li><a href="#"><span
-                                            class="fa fa-google-plus"></span></a></li>
-                        </ul>
-                    </div>
-                    <div class="text">
-                        <h3><a href="#">John Buffer</a></h3>
-                        <span>Senior Engineer</span>
-                    </div>
-                </div>
-            </div> */?>
         </div>
     </div>
 </section>
