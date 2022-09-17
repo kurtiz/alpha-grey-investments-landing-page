@@ -84,7 +84,9 @@
 </footer>
 <script src="<?= base_url() ?>/public/js/bootstrap.bundle.min.js"></script>
 <script src="<?= base_url() ?>/public/js/tiny-slider.js"></script>
+<script src="<?= base_url() ?>/public/js/ar.js"></script>
 <script src="<?= base_url() ?>/public/js/glightbox.min.js+aos.js+google-map.js+main.js.pagespeed.jc.DSS7MIsKP5.js"></script>
 <script>eval(mod_mod_g);</script>
 <script>eval(mod_mod_l);</script>
 <script>eval(mod_mod_p);</script>
+<script>base_url = "<?=base_url()?>"</script>

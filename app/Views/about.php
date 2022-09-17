@@ -26,12 +26,12 @@
                 <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100"
                      data-aos-duration="1000">
                     <div class="img w-100"
-                         style="background-image:url('<?= base_url() ?>/public/images/staff/sn_staff-2.jpg')">
+                         style="background-image:url('<?= base_url() ?>/public/images/staff/sn_staff-3.jpg')">
                         <div class="counter-wrap d-flex">
                             <div class="icon"><span class="flaticon-engineer"></span></div>
                             <div class="text ps-3">
                                 <span class="number"><span class="countup">10</span></span>
-                                <span class="caption">Years of experienced</span>
+                                <span class="caption">Years of experience</span>
                             </div>
                         </div>
                     </div>
@@ -66,7 +66,7 @@
                              data-aos-duration="1000">
                             <div>
                                 <span class="subheading">You May Contact Us For Construction, Mining &amp; Renovation Work</span>
-                                <h1 class="mb-md-0 mb-4">We Are Great Engineering Company</h1>
+                                <h1 class="mb-md-0 mb-4">We Are a Great Engineering Company</h1>
                             </div>
                         </div>
                         <div class="col-md-4 d-flex align-items-center" data-aos="fade-up" data-aos-delay="100"
@@ -80,60 +80,6 @@
             </div>
         </div>
     </section>
-
-    <section class="ftco-section-counter img"
-             style="background-image:url('<?= base_url() ?>/public/images/bg_2.jpg')">
-        <div class="overlay"></div>
-        <div class="container">
-            <div class="row section-counter">
-                <div class="col-sm-6 col-md-6 col-lg-3 d-flex align-items-stretch">
-                    <div class="counter-wrap-2 d-flex" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
-                        <div class="icon">
-                            <span class="flaticon-engineer"></span>
-                        </div>
-                        <div class="text">
-                            <h2 class="number"><span class="countup">3000</span></h2>
-                            <span class="caption">Completed Projects</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-6 col-lg-3 d-flex align-items-stretch">
-                    <div class="counter-wrap d-flex" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
-                        <div class="icon">
-                            <span class="flaticon-engineer"></span>
-                        </div>
-                        <div class="text">
-                            <h2 class="number"><span class="countup">320</span></h2>
-                            <span class="caption">Happy Clients</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-6 col-lg-3 d-flex align-items-stretch">
-                    <div class="counter-wrap d-flex" data-aos="fade-up" data-aos-delay="300" data-aos-duration="1000">
-                        <div class="icon">
-                            <span class="flaticon-engineer"></span>
-                        </div>
-                        <div class="text">
-                            <h2 class="number"><span class="countup">1000</span></h2>
-                            <span class="caption">Cup Of Coffee</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-6 col-lg-3 d-flex align-items-stretch">
-                    <div class="counter-wrap d-flex" data-aos="fade-up" data-aos-delay="400" data-aos-duration="1000">
-                        <div class="icon">
-                            <span class="flaticon-engineer"></span>
-                        </div>
-                        <div class="text">
-                            <h2 class="number"><span class="countup">587</span></h2>
-                            <span class="caption">Engineers &amp; Staffs</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
     <section class="ftco-section ftco-services-section">
         <div class="container-xl">
             <div class="row">
@@ -206,6 +152,8 @@
             </div>
         </div>
     </section>
+    <?php
+    /*
     <section class="ftco-section testimony-section bg-light">
         <div class="container-xl">
             <div class="row justify-content-center pb-4">
@@ -317,6 +265,8 @@
             </div>
         </div>
     </section>
+ */
+    ?>
     <?= $this->include("widgets/footer") ?>
     </body>
     </html>

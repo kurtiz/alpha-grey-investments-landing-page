@@ -26,7 +26,8 @@ class Email extends BaseConfig
 	 *
 	 * @var string
 	 */
-	public $userAgent = 'OurPos';
+	public $userAgent = "AlphaGrey";
+        //'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246';
 
 	/**
 	 * The mail sending protocol: mail, sendmail, smtp
@@ -47,21 +48,21 @@ class Email extends BaseConfig
 	 *
 	 * @var string
 	 */
-	public $SMTPHost = 'mail.ourtechonologies.com';
+	public $SMTPHost = 'mail.aplhagreyinvestments.com';
 
 	/**
 	 * SMTP Username
 	 *
 	 * @var string
 	 */
-	public $SMTPUser = "info@ourtechonologies.com";
+	public $SMTPUser = "info@aplhagreyinvestments.com";
 
 	/**
 	 * SMTP Password
 	 *
 	 * @var string
 	 */
-	public $SMTPPass = 'otcadmin2020';
+	public $SMTPPass = "X8##c3BtZn{g";
 
 	/**
 	 * SMTP Port

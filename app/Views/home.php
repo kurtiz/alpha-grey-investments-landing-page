@@ -13,7 +13,6 @@
         <div class="row no-gutters slider-text align-items-center justify-content-center text-center">
             <div class="col-lg-9">
                 <div class="text" data-aos="fade-up" data-aos-delay="300" data-aos-duration="1000">
-                    <span class="subheading">Since 1982</span>
                     <h1 class="mb-5">We are the <span>best</span> at what we do</h1>
                     <p><a href="tel:233203104031" class="btn btn-primary p-4 py-3">Contact us <span
                                     class="fa fa-phone"></span></a> <a
@@ -31,12 +30,12 @@
             <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100"
                  data-aos-duration="1000">
                 <div class="img w-100"
-                     style="background-image:url('<?= base_url(); ?>/public/images/staff/sn_staff-1.jpg')">
+                     style="background-image:url('<?= base_url(); ?>/public/images/staff/sn_staff-3.jpg')">
                     <div class="counter-wrap d-flex">
                         <div class="icon"><span class="flaticon-engineer"></span></div>
                         <div class="text ps-3">
                             <span class="number"><span class="countup">10</span></span>
-                            <span class="caption">Years of experienced</span>
+                            <span class="caption">Years of experience</span>
                         </div>
                     </div>
                 </div>
@@ -119,7 +118,7 @@
                          data-aos-duration="1000">
                         <div>
                             <span class="subheading">You May Contact Us For Construction &amp; Renovation Work</span>
-                            <h1 class="mb-md-0 mb-4">We Are Great Construction Company</h1>
+                            <h1 class="mb-md-0 mb-4">We Are a Great Construction Company</h1>
                         </div>
                     </div>
                     <div class="col-md-4 d-flex align-items-center" data-aos="fade-up" data-aos-delay="100"
@@ -127,58 +126,6 @@
                         <p class="mb-0"><a href="#appointment"
                                            class="btn btn-primary py-md-4 py-3 px-md-5 px-4">Make An
                                 Appointment</a></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<section class="ftco-section-counter img"
-         style="background-image:url('<?= base_url(); ?>/public/images/bg_2.jpg')">
-    <div class="overlay"></div>
-    <div class="container">
-        <div class="row section-counter">
-            <div class="col-sm-6 col-md-6 col-lg-3 d-flex align-items-stretch">
-                <div class="counter-wrap-2 d-flex" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
-                    <div class="icon">
-                        <span class="flaticon-engineer"></span>
-                    </div>
-                    <div class="text">
-                        <h2 class="number"><span class="countup">3000</span></h2>
-                        <span class="caption">Completed Projects</span>
-                    </div>
-                </div>
-            </div>
-            <div class="col-sm-6 col-md-6 col-lg-3 d-flex align-items-stretch">
-                <div class="counter-wrap-2 d-flex" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
-                    <div class="icon">
-                        <span class="flaticon-engineer"></span>
-                    </div>
-                    <div class="text">
-                        <h2 class="number"><span class="countup">320</span></h2>
-                        <span class="caption">Happy Clients</span>
-                    </div>
-                </div>
-            </div>
-            <div class="col-sm-6 col-md-6 col-lg-3 d-flex align-items-stretch">
-                <div class="counter-wrap-2 d-flex" data-aos="fade-up" data-aos-delay="300" data-aos-duration="1000">
-                    <div class="icon">
-                        <span class="flaticon-engineer"></span>
-                    </div>
-                    <div class="text">
-                        <h2 class="number"><span class="countup">1000</span></h2>
-                        <span class="caption">Cup Of Coffee</span>
-                    </div>
-                </div>
-            </div>
-            <div class="col-sm-6 col-md-6 col-lg-3 d-flex align-items-stretch">
-                <div class="counter-wrap-2 d-flex" data-aos="fade-up" data-aos-delay="400" data-aos-duration="1000">
-                    <div class="icon">
-                        <span class="flaticon-engineer"></span>
-                    </div>
-                    <div class="text">
-                        <h2 class="number"><span class="countup">587</span></h2>
-                        <span class="caption">Engineers &amp; Staffs</span>
                     </div>
                 </div>
             </div>
@@ -197,7 +144,7 @@
             <div class="col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
                 <div class="staff">
                     <div class="img"
-                         style="background-image:url('<?= base_url(); ?>/public/images/staff/sn_staff-1.jpg')">
+                         style="background-image:url('<?= base_url(); ?>/public/images/staff/sn_staff-3.jpg')">
                         <?php /*<ul class="ftco-social">
                             <li><a href="#"><span class="fa fa-twitter"></span></a>
                             </li>
@@ -239,7 +186,7 @@
             <div class="col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
                 <div class="staff">
                     <div class="img"
-                         style="background-image:url('<?= base_url(); ?>/public/images/staff/sn_staff-3.jpg')">
+                         style="background-image:url('<?= base_url(); ?>/public/images/staff/sn_staff-1.jpg')">
                         <?php /*<ul class="ftco-social">
                             <li><a href="#"><span class="fa fa-twitter"></span></a>
                             </li>
@@ -411,6 +358,8 @@
 </section>
  */ ?>
 
+<?php
+/*
 <section class="ftco-section testimony-section bg-light">
     <div class="container-xl">
         <div class="row justify-content-center pb-4">
@@ -522,8 +471,10 @@
         </div>
     </div>
 </section>
+ */?>
 
-<?php /*
+<?php
+/*
 <section class="ftco-section bg-light ftco-no-pt">
     <div class="container-xl">
         <div class="row justify-content-center mb-5">
@@ -611,9 +562,11 @@
                     <span class="subheading">Frequently Ask Question</span>
                     <h2 class="mb-3">You Want To Ask Something From Us?</h2>
                     <p>
-                        These are some commonly asked questions and their answers. We believe this can be of help.
-                        If you are still not satisfied with these answers, do not hesitate to contact us.
+                        You can request for a quote or <a href="<?=base_url()?>/contact">contact us</a>
                     </p>
+                    <?php
+                    /*
+                    ?>
                     <div class="row">
                         <div class="col-md-12">
                             <div class="accordion" id="accordionExample">
@@ -674,41 +627,61 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> */
+                    ?>
                 </div>
             </div>
             <div class="col-lg-6 d-flex align-items-center align-items-stretch" data-aos="fade-up" data-aos-delay="100">
-                <form action="#" class="appointment aside-stretch">
+                <form id="quoteForm" action="#" class="appointment aside-stretch">
                     <span class="subheading">Drop A Message</span>
                     <h2 class="mb-4 appointment-head">Request A Quote</h2>
                     <div class="row">
                         <div class="col-md-12 col-lg-6">
                             <div class="form-group">
                                 <label for="name">Your Full Name</label>
-                                <input type="text" required class="form-control" placeholder="Your Full Name">
+                                <input type="text" data-label="Full Name" name="fullname" required class="form-control" placeholder="Your Full Name">
                             </div>
                         </div>
                         <div class="col-md-12 col-lg-6">
                             <div class="form-group">
                                 <label for="email">Email Address</label>
-                                <input type="text" required class="form-control" placeholder="Email">
+                                <input type="text" data-label="Email Address" name="email" required class="form-control" placeholder="Email">
                             </div>
                         </div>
                         <div class="col-md-12">
                             <div class="form-group">
                                 <label for="subject">Subject</label>
-                                <input type="text" required class="form-control" placeholder="Subject">
+                                <input type="text" data-label="Subject" name="subject" required class="form-control" placeholder="Subject">
                             </div>
                         </div>
                         <div class="col-md-12">
                             <div class="form-group">
                                 <label for="name">Message</label>
-                                <textarea name="" required id="" cols="30" rows="7" class="form-control"
+                                <textarea name="message" required id="" cols="30" rows="7" class="form-control"
                                           placeholder="Message"></textarea>
                             </div>
                         </div>
+
+                        <div id="quoteSuccess" style="display: none" class="col-md-12">
+                            <div class="form-group btn color-green">
+                                Sent Successfully!
+                            </div>
+                        </div>
+
+                        <div id="quoteError" style="display: none" class="col-md-12">
+                            <div class="form-group btn color-red">
+                                An error occurred! Try again or contact us here ->
+                                <a style="text-decoration: none" href="mailto:info@alphagreyinvestments.com">
+                                    <i class="fa fa-paper-plane"></i> email
+                                </a> /
+                                <a style="text-decoration: none" href="tel:233203104031">
+                                    <i class="fa fa-phone"></i> phone
+                                </a>
+                            </div>
+                        </div>
+
                         <div class="col-md-12">
-                            <input type="submit" value="Send message" class="btn btn-primary py-3 px-4 rounded">
+                            <input id="quoteSubmit" type="button" value="Send message" class="btn btn-primary py-3 px-4 rounded">
                         </div>
                     </div>
                 </form>
@@ -723,51 +696,69 @@
     <div class="container-xl">
         <div class="row">
             <div class="col-lg-6 d-flex align-items-center align-items-stretch" data-aos="fade-up" data-aos-delay="100">
-                <form action="#" class="appointment aside-stretch">
+                <form id="appointmentForm" action="#" class="appointment aside-stretch">
                     <span class="subheading">Book An Appointment</span>
                     <h2 class="mb-4 appointment-head">Enter your details</h2>
                     <div class="row">
                         <div class="col-md-12 col-lg-6">
                             <div class="form-group">
                                 <label for="name">Your Full Name</label>
-                                <input type="text" required class="form-control" placeholder="Your Full Name">
+                                <input type="text" data-label="Full Name" name="fullname" required class="form-control" placeholder="Your Full Name">
                             </div>
                         </div>
                         <div class="col-md-12 col-lg-6">
                             <div class="form-group">
                                 <label for="email">Email Address</label>
-                                <input type="email" required class="form-control" placeholder="Email">
+                                <input type="email" data-label="Email Address" name="email" required class="form-control" placeholder="Email">
                             </div>
                         </div>
                         <div class="col-md-12 col-lg-6">
                             <div class="form-group">
                                 <label for="subject">Phone Number</label>
                                 <input type="text" required class="form-control"
-                                       placeholder="eg: +233596046334">
+                                       data-label="Phone Number" name="phone" placeholder="eg: +233596046334">
                             </div>
                         </div>
                         <div class="col-md-12 col-lg-6">
                             <div class="form-group">
                                 <label for="subject">Preferred Date</label>
                                 <input type="date" required class="form-control"
-                                       placeholder="choose your preferred date">
+                                     data-label="Preferred Date" name="date" placeholder="choose your preferred date">
                             </div>
                         </div>
                         <div class="col-md-12">
                             <div class="form-group">
                                 <label for="subject">Subject</label>
-                                <input type="text" required class="form-control" placeholder="Subject">
+                                <input data-label="Subject" type="text" name="subject" required class="form-control" placeholder="Subject">
                             </div>
                         </div>
                         <div class="col-md-12">
                             <div class="form-group">
                                 <label for="name">Message</label>
-                                <textarea name="" required id="" cols="30" rows="7" class="form-control"
+                                <textarea name="message" required id="" cols="30" rows="7" class="form-control"
                                           placeholder="Message"></textarea>
                             </div>
                         </div>
+
+                        <div id="appointmentSuccess" style="display: none" class="col-md-12">
+                            <div class="form-group btn color-green">
+                                Sent Successfully!
+                            </div>
+                        </div>
+
+                        <div id="appointmentError" style="display: none" class="col-md-12">
+                            <div class="form-group btn color-red">
+                                An error occurred! Try again or contact us here ->
+                                <a style="text-decoration: none" href="mailto:info@alphagreyinvestments.com">
+                                    <i class="fa fa-paper-plane"></i> email
+                                </a> /
+                                <a style="text-decoration: none" href="tel:233203104031">
+                                    <i class="fa fa-phone"></i> phone
+                                </a>
+                            </div>
+                        </div>
                         <div class="col-md-12">
-                            <input type="submit" value="Send message" class="btn btn-primary py-3 px-4 rounded">
+                            <input id="appointmentSubmit" type="button" value="Send message" class="btn btn-primary py-3 px-4 rounded">
                         </div>
                     </div>
                 </form>
